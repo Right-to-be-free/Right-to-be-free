@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Vishal Garlapati</h1>
-<h3 align="center">A passionate Data Scientist | AI & DevOps Specialist</h3>
+<h3 align="center">A passionate Data Scientist | AI-Powered Data Strategist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=right-to-be-free&label=Profile%20views&color=0e75b6&style=flat" alt="right-to-be-free" /> </p>
 
@@ -9,11 +9,16 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 💬 Ask me about **MLOps, Generative AI & Data Analysis**
+- 💬 Ask me about *Generative AI & Data Analysis**
 
 - 📫 How to reach me **Iamrishivishal@gmail.com**
 
-- ⚡ Fun fact **Here are some fun facts about me: From Groceries to Graphs – I went from managing a grocery store inventory to managing AI models and DevOps pipelines. Who knew handling fresh produce would lead to handling fresh data? 🍎➡️📊 Mystery Enthusiast – I'm not just into data mysteries; I'm also working on a mystery novel! Maybe one day, my AI will predict the next big plot twist. 🔍📖 Code & Coffee – My debugging skills get supercharged with a good cup of coffee. If data has patterns, so does my caffeine intake! ☕💻 Master of Adaptation – From business operations to AI and DevOps, I’ve evolved with technology like a machine learning model that keeps getting better. 🚀 Secret Talent? – I might just be the person who can explain AI and DevOps using grocery store analogies. Need to deploy a model? Think of it like restocking the shelves efficiently! 😆**
+- ⚡ Fun fact **🎯 Multidisciplinary Data Whisperer meets Creative Tech Wizard 🧙‍♂️✨
+With 6+ years turning messy data into crystal-clear insights, I live at the crossroads of business smarts, design thinking, and AI magic. From boosting revenue to streamlining chaos, I’ve built analytics-powered solutions that don’t just crunch numbers—they tell stories, influence strategies, and actually get used.
+
+I speak fluent Python, SQL, Power BI, and throw in a bit of ML sauce to spice things up. These days, I'm diving headfirst into the wild world of Generative AI, LangChain, and LLM automation, gearing up to lead the charge in the next-gen wave of data-driven transformation.
+
+Think of me as the bridge between your wild ideas and the data that makes them real. 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
