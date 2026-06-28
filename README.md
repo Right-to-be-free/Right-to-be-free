@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishi Vishal Garlapati</h1>
-<h3 align="center">A passionate Data Scientist | AI-Powered Data Strategist </h3>
+<h3 align="center">A passionate SoftWare Engineer | AI-Powered Data Strategist </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=right-to-be-free&label=Profile%20views&color=0e75b6&style=flat" alt="right-to-be-free" /> </p>
 
